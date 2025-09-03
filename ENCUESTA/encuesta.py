@@ -16,4 +16,3 @@ for i in range(0, 7):
     print(carrera)
     print(idea_de_proyecto)
     print("--------------------------")
-#COMETNARIO
