@@ -1,12 +1,12 @@
-# Ejercicios en Python - Estructuras de Control
+# Ejercicios en Python - Estructuras de Control y Encuesta
 
 👨‍💻 Autor: **Sebastián Triana**  
 📚 Este proyecto contiene soluciones en **Python** a varios ejercicios del PDF *"Ejercicios de programación en Java"*, pero adaptados al lenguaje Python.  
-El objetivo principal es **practicar estructuras de control** como `if`, `elif`, `else`, `while`, `for` y `match-case`.
+El objetivo principal es **practicar estructuras de control** como `if`, `elif`, `else`, `while`, `for` y `match-case`. Además, incluye la encuesta propuesta en clase hecha en otra carpeta del mismo repositorio.
 
 ---
 
-## 📌 Ejercicios incluidos
+## 📌 Ejercicios incluidos(CARPETA ESTRUCTUTRAS DE CONTROL)
 
 1. **Ejercicio 12** → Imprimir los números del 5 al 15.
 <img width="267" height="212" alt="image" src="https://github.com/user-attachments/assets/64335064-76f2-4ecd-a2c0-91f915b8c938" />
@@ -47,8 +47,17 @@ El objetivo principal es **practicar estructuras de control** como `if`, `elif`,
 10. **Ejercicio 19** → Conversión de euros a dólares.
 <img width="267" height="81" alt="image" src="https://github.com/user-attachments/assets/06c32786-24ed-4f2a-a6c1-ca02576177af" />
 
-
 ---
+
+## 📌 Encuesta para Estudiantes(CARPETA ENCUESTA)
+
+En esta carpeta encontrarás un script que ejecuta una **pequeña encuesta** para conocer a tus compañeros.  
+El programa pide:  
+
+- Nombre del estudiante  
+- Carrera que estudia  
+- Idea de proyecto  
+
 
 ## ⚙️ Tecnologías usadas
 - Python 3.10+ (para poder usar `match-case`)
