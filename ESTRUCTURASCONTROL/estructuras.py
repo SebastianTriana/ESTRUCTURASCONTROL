@@ -127,7 +127,7 @@ def primos_hasta_n():
 #10 Ejercicio 19: Escribir un programa en Java que convierta de euros a dólares. Recibirá un número decimal correspondiente a la cantidad en euros y contestará con la cantidad correspondiente en dolares.
 
 def euros_a_dolares():
-    tasa = 1.08  # 1 euro = 1.08 dólares (puedes cambiarlo)
+    tasa = 1.08 
     euros = float(input("Ingrese cantidad en euros: "))
     dolares = euros * tasa
     print(f"{euros}€ equivalen a {dolares:.2f}$")
